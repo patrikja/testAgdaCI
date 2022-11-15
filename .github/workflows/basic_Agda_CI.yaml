@@ -12,4 +12,3 @@ jobs:
           agda-stdlib-version: 'recommended'
       - working-directory: src
         run: agda Hello.agda
-      
